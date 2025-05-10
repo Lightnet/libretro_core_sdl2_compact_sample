@@ -8,3 +8,9 @@
 # tools:
 - CMake
 - VS2022
+
+# Credits:
+- SDL2-Compat
+  - examples
+- libretro 
+  - examples
